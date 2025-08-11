@@ -1,1 +1,2 @@
-### Random bash scirpts :D
+# Alogos
+Random bash scirpts, sometimes maybe work, sometimes maybe shit
