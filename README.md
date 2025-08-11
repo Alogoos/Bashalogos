@@ -1,1 +1,1 @@
-###Random bash scirpts :D
+### Random bash scirpts :D
